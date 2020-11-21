@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mule_jar">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="mule_jar.jar">
+      <element id="module-output" name="MULE" />
+    </root>
+  </artifact>
+</component>
